@@ -1,5 +1,5 @@
 ---
-title: A simple starter kit for Eleventy
+title: A simple starter kit for Eleventydfasdfadsfasdf
 socialImage: ''
 postsHeading: Latest posts
 archiveButtonText: See all posts
